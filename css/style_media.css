@@ -1,0 +1,1350 @@
+@media all and (max-width:1680px) {
+    .sec2 h2 {
+        top: 20%;
+    }
+
+    .sec2>span {
+        top: 25%;
+    }
+
+    .sec2 .intro_left {
+        font-size: 3rem;
+        bottom: 8%;
+    }
+
+    .sec2 .intro_left_under {
+        font-size: 1.3rem;
+    }
+
+    .sec2 .line,
+    .sec2 .real {
+        width: 400px;
+        bottom: 8%;
+    }
+
+    .sec2 .line>img,
+    .sec2 .real>img {
+        width: 100%;
+    }
+
+    .sec2 .intro_right {
+        right: 5%;
+        bottom: 8%;
+    }
+
+    .sec2 .intro_right h4 {
+        font-size: 2.5rem;
+    }
+
+    .sec2 .intro_right h3 {
+        font-size: 1.5rem;
+    }
+
+    .sec2 .intro_right .text {
+        font-size: 1rem;
+    }
+
+    .sec2 .intro_right .birth {
+        left: 35%;
+    }
+
+    /* ----sec3------------- */
+    .sec3 .skill>div>.circle {
+        width: 300px;
+        height: 300px;
+    }
+
+    .sec3 .skill .circle1 {
+        font-size: 2rem;
+    }
+
+    .sec3 .skill .text {
+        font-size: 1.3rem;
+    }
+
+    .sec3 .skill1 .circle1 {
+        left: 19%;
+    }
+
+    .sec3 .skill1 .circle2 {
+        left: 17.5%;
+    }
+
+    .sec3 .skill2 .circle1 {
+        left: 17%;
+    }
+
+    .sec3 .skill2 .circle2 {
+        left: 16%;
+    }
+
+    .sec3 .skill3 .circle1 {
+        left: 19%;
+    }
+
+    .sec3 .skill3 .circle2 {
+        left: 17.5%;
+    }
+
+    /* ----sec4------------ */
+    .slider .post-wrapper .post .left {
+        margin-left: 5%;
+    }
+
+    .slider .post-wrapper .post h2 {
+        font-size: 2.5rem;
+    }
+
+    .slider .post-wrapper .post .left>p {
+        font-size: 1.2rem;
+    }
+
+    .slider .post-wrapper .post .circle>span {
+        width: 38px;
+        height: 38px;
+    }
+
+    .slider .post-wrapper .post .work_about {
+        font-size: 1rem;
+    }
+
+    .slider .post-wrapper .post a {
+        width: 100px;
+        height: 30px;
+        font-size: 1.2rem;
+        line-height: 30px;
+        letter-spacing: 0;
+    }
+
+    .slider .post-wrapper .post .right {
+        width: 570px;
+        height: 465px;
+    }
+
+    .slider .post-wrapper .post .right .scroll {
+        width: 568px;
+    }
+
+    .slider .post-wrapper .post1 .right .scroll:hover img {
+        transform: translateY(-1215px);
+        transition: 9s;
+        transition-timing-function: linear;
+    }
+
+    .slider .post-wrapper .post2 .right .scroll:hover img {
+        transform: translateY(-760px);
+        transition: 6s;
+        transition-timing-function: linear;
+    }
+
+    .slider .post-wrapper .post3 .right .scroll:hover img {
+        transform: translateY(-800px);
+        transition: 6s;
+        transition-timing-function: linear;
+    }
+
+    /* --------------- */
+    .sec6 .textbox {
+        margin-top: 19px;
+    }
+}
+
+@media all and (max-width:1280px) {
+    .menu {
+        height: 41px;
+    }
+
+    .menu ul li {
+        font-size: 1.3rem;
+    }
+
+    .sec2>h2 {
+        font-size: 3rem;
+        top: 13%;
+    }
+
+    .sec2>span {
+        top: 19%;
+        width: 280px;
+    }
+
+    .sec2 .intro_left {
+        font-size: 2.5rem;
+        line-height: 4rem;
+        height: 68%;
+        left: 15%;
+        bottom: 7%;
+    }
+
+    .sec2 .intro_left_under {
+        font-size: 1.2rem;
+    }
+
+    .sec2 .line,
+    .sec2 .real {
+        width: 300px;
+    }
+
+    .sec2 .intro_right {
+        right: 7%;
+        bottom: 7%;
+    }
+
+    .sec2 .intro_right h4 {
+        font-size: 2.3rem;
+        margin-bottom: 10px;
+    }
+
+    .sec2 .intro_right .birth {
+        left: 30%;
+        font-size: 0.9rem;
+        line-height: 1.2rem;
+        top: 2%
+    }
+
+    .sec2 .intro_right h3 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
+    }
+
+    .sec2 .intro_right .text {
+        font-size: 0.95rem;
+    }
+
+    /* ------------sec3----------------- */
+    .sec3>h2 {
+        font-size: 3rem;
+        top: 13%;
+    }
+
+    .sec3>span {
+        top: 19%;
+        width: 170px;
+    }
+
+    .sec3 .skill>div>.circle {
+        width: 250px;
+        height: 250px;
+    }
+
+    .sec3 .skill1 .circle1,
+    .sec3 .skill2 .circle1,
+    .sec3 .skill3 .circle1 {
+        top: 5%;
+        left: 23%;
+    }
+
+    .sec3 .skill1 .circle2 {
+        top: 7%;
+        left: 20%;
+    }
+
+    .sec3 .skill2 .circle2 {
+        top: 7.5%;
+        left: 22.5%;
+    }
+
+    .sec3 .skill3 .circle2 {
+        left: 16.5%;
+        top: 5%;
+        left: 26%;
+    }
+
+    .sec3 .skill1 .circle1 p,
+    .sec3 .skill2 .circle1 p,
+    .sec3 .skill3 .circle1 p {
+        font-size: 1.8rem;
+        line-height: 3rem;
+    }
+
+    .sec3 .progress {
+        margin-top: 82%;
+    }
+
+    .sec3 .skill1 .text {
+        bottom: -4%;
+        font-size: 1.1rem;
+        line-height: 2rem;
+    }
+
+    .sec3 .skill2 .text,
+    .sec3 .skill3 .text {
+        bottom: 3%;
+        font-size: 1.1rem;
+        line-height: 2rem;
+    }
+
+    /* -----------sec4--------------------- */
+    .sec4>h2 {
+        font-size: 3rem;
+        top: 10%;
+    }
+
+    .sec4>span {
+        width: 200px;
+        top: 16%;
+    }
+
+    .sec4 h3 {
+        top: 17%;
+    }
+
+    .slider .post-wrapper .post .left {
+        left: 1%;
+        margin-top: 3%;
+    }
+
+    .slider .post-wrapper .post .work_about {
+        line-height: 1.7rem;
+    }
+
+    .slider .post-wrapper .post .right {
+        width: 449px;
+        height: 400px;
+        margin-top: 3%;
+        margin-right: 3%;
+    }
+
+    .slider .post-wrapper .post .right .scroll {
+        width: 448px;
+    }
+
+    .slider .post-wrapper .post .left>p {
+        font-size: 1.1rem;
+        line-height: 1.8rem;
+    }
+
+    .slider .post-wrapper .post h2 {
+        margin-bottom: 31px;
+    }
+
+    .slider .post-wrapper .post1 .circle {
+        margin-top: 5%;
+    }
+
+    .slider .post-wrapper .post .circle {
+        margin: 5% 0;
+    }
+
+    .slider .post-wrapper {
+        margin-top: 3%;
+    }
+
+    .sec4 .slick-dots {
+        bottom: 19% !important;
+    }
+
+    /* -----------sec5---------------- */
+
+    .sec5>h2 {
+        font-size: 3rem;
+        top: 8%;
+    }
+
+    .sec5>span {
+        width: 200px;
+        top: 14%;
+    }
+
+    .sec5 h3 {
+        top: 15%;
+    }
+
+    .sec5 .box1 {
+        top: 68%;
+    }
+
+    .sec5 .box1 .work1 {
+        display: block;
+        width: 600px;
+    }
+
+    .sec5 .box1 .work1>img {
+        width: 100%;
+    }
+
+    .sec5 .box1 .work2,
+    .sec5 .box1 .work3,
+    .sec5 .box1 .work4,
+    .sec5 .box1 .work5 {
+        display: block;
+        width: 200px;
+    }
+
+    .sec5 .box1 .work2>img,
+    .sec5 .box1 .work3>img,
+    .sec5 .box1 .work4>img,
+    .sec5 .box1 .work5>img {
+        width: 100%;
+    }
+
+    .sec5 .box1 .work2 {
+        top: 25.5%;
+        left: 28%;
+    }
+
+    .sec5 .box1 .work3 {
+        top: 25.5%;
+        right: 28%;
+    }
+
+    .sec5 .box1 .work4 {
+        top: 52.5%;
+        left: 28%;
+    }
+
+    .sec5 .box1 .work5 {
+        top: 52.5%;
+        right: 28%;
+    }
+
+    .sec5 .slick-dots {
+        bottom: 25% !important;
+    }
+
+    .sec5 .box1 .line1,
+    .sec5 .box1 .line3 {
+        height: 400px;
+    }
+
+    .sec5 .box1 .line1>img,
+    .sec5 .box1 .line3>img {
+        height: 100%;
+    }
+
+    .sec5 .box1 .line2 {
+        width: 400px;
+    }
+
+    .sec5 .box1 .line2>img {
+        width: 100%;
+    }
+
+    .sec5 .box1 .line1 {
+        left: 36%;
+    }
+
+    .sec5 .box1 .line2 {
+        bottom: 32%;
+        left: 34%;
+    }
+
+    .sec5 .box1 .line3 {
+        right: 36%;
+    }
+
+    .slide1 a .mouse1 .bg {
+        width: 600px;
+        height: 97px;
+    }
+
+    .slide1 .mouse1 p {
+        top: 43px;
+        left: 273px;
+    }
+
+    .slide1 a .mouse2 .bg,
+    .slide1 a .mouse3 .bg,
+    .slide1 a .mouse4 .bg,
+    .slide1 a .mouse5 .bg {
+        width: 200px;
+        height: 137px;
+    }
+
+    .slide1 .mouse2 p,
+    .slide1 .mouse3 p,
+    .slide1 .mouse4 p,
+    .slide1 .mouse5 p {
+        top: 59px;
+        left: 72px;
+    }
+
+    .sec5 .box1 .work6,
+    .sec5 .box1 .work7,
+    .sec5 .box1 .work8,
+    .sec5 .box1 .work9 {
+        display: block;
+        width: 250px;
+    }
+
+    .sec5 .box1 .work6>img,
+    .sec5 .box1 .work7>img,
+    .sec5 .box1 .work8>img,
+    .sec5 .box1 .work9>img {
+        width: 100%;
+    }
+
+    .sec5 .box1 .work6 {
+        top: 8%;
+        left: 25%;
+    }
+
+    .sec5 .box1 .work7 {
+        top: 8%;
+        right: 25%;
+    }
+
+    .sec5 .box1 .work8 {
+        top: 45%;
+        left: 25%;
+    }
+
+    .sec5 .box1 .work9 {
+        top: 45%;
+        right: 25%;
+    }
+
+    .sec5 .box1 .line4,
+    .sec5 .box1 .line6 {
+        height: 300px;
+    }
+
+    .sec5 .box1 .line4 {
+        left: 34%;
+    }
+
+    .sec5 .box1 .line5 {
+        top: 17%;
+    }
+
+    .sec5 .box1 .line6 {
+        right: 34%;
+    }
+
+    .sec5 .box1 .line7 {
+        top: 57%;
+    }
+
+    .sec5 .box1 .line4>img,
+    .sec5 .box1 .line6>img {
+        height: 100%;
+    }
+
+    .slide2 a .mouse .bg {
+        width: 250px;
+        height: 171px;
+    }
+
+    .slide2 .mouse p {
+        width: 250px;
+        top: 82px;
+    }
+
+    /* ----popup----- */
+    .popup>div>p {
+        font-size: 2.5rem;
+    }
+
+    .popup .pop1 .main {
+        width: 900px;
+    }
+
+    .popup .pop1 .main>img {
+        width: 100%;
+    }
+
+    .popup .pop1 {
+        width: 950px;
+        height: 265px;
+    }
+
+    .popup .pop1>P {
+        top: 15%;
+    }
+
+    .pop1>span {
+        top: 27%;
+        width: 192px;
+    }
+
+    .popup .pop2 .main {
+        width: 400px;
+        bottom: 8%;
+    }
+
+    .popup .pop2 .main>img {
+        width: 100%;
+    }
+
+    .popup .pop2 {
+        width: 480px;
+        height: 443px;
+    }
+
+    .popup .pop2>P {
+        top: 9%;
+        width: 284px;
+    }
+
+    .pop2>span {
+        top: 16%;
+        width: 305px;
+    }
+
+    @media all and (max-width:1280px) {
+        .menu {
+            height: 41px;
+        }
+
+        .menu ul li {
+            font-size: 1.3rem;
+        }
+
+        .sec2>h2 {
+            font-size: 3rem;
+            top: 13%;
+        }
+
+        .sec2>span {
+            top: 19%;
+            width: 280px;
+        }
+
+        .sec2 .intro_left {
+            font-size: 2.5rem;
+            line-height: 4rem;
+            height: 68%;
+            left: 15%;
+            bottom: 7%;
+        }
+
+        .sec2 .intro_left_under {
+            font-size: 1.2rem;
+        }
+
+        .sec2 .line,
+        .sec2 .real {
+            width: 300px;
+        }
+
+        .sec2 .intro_right {
+            right: 7%;
+            bottom: 7%;
+        }
+
+        .sec2 .intro_right h4 {
+            font-size: 2.3rem;
+            margin-bottom: 10px;
+        }
+
+        .sec2 .intro_right .birth {
+            left: 30%;
+            font-size: 0.9rem;
+            line-height: 1.2rem;
+            top: 2%
+        }
+
+        .sec2 .intro_right h3 {
+            font-size: 1.3rem;
+            margin-bottom: 10px;
+        }
+
+        .sec2 .intro_right .text {
+            font-size: 0.95rem;
+        }
+
+        /* ------------sec3----------------- */
+        .sec3>h2 {
+            font-size: 3rem;
+            top: 13%;
+        }
+
+        .sec3>span {
+            top: 19%;
+            width: 170px;
+        }
+
+        .sec3 .skill>div>.circle {
+            width: 250px;
+            height: 250px;
+        }
+
+        .sec3 .skill1 .circle1,
+        .sec3 .skill2 .circle1,
+        .sec3 .skill3 .circle1 {
+            top: 5%;
+            left: 23%;
+        }
+
+        .sec3 .skill1 .circle2 {
+            top: 7%;
+            left: 20%;
+        }
+
+        .sec3 .skill2 .circle2 {
+            top: 7.5%;
+            left: 22.5%;
+        }
+
+        .sec3 .skill3 .circle2 {
+            left: 16.5%;
+            top: 5%;
+            left: 26%;
+        }
+
+        .sec3 .skill1 .circle1 p,
+        .sec3 .skill2 .circle1 p,
+        .sec3 .skill3 .circle1 p {
+            font-size: 1.8rem;
+            line-height: 3rem;
+        }
+
+        .sec3 .progress {
+            margin-top: 82%;
+        }
+
+        .sec3 .skill1 .text {
+            bottom: -4%;
+            font-size: 1.1rem;
+            line-height: 2rem;
+        }
+
+        .sec3 .skill2 .text,
+        .sec3 .skill3 .text {
+            bottom: 3%;
+            font-size: 1.1rem;
+            line-height: 2rem;
+        }
+
+        /* -----------sec4--------------------- */
+        .sec4>h2 {
+            font-size: 3rem;
+            top: 10%;
+        }
+
+        .sec4>span {
+            width: 200px;
+            top: 16%;
+        }
+
+        .sec4 h3 {
+            top: 17%;
+        }
+
+        .slider .post-wrapper .post .left {
+            left: 1%;
+            margin-top: 3%;
+        }
+
+        .slider .post-wrapper .post .work_about {
+            line-height: 1.7rem;
+        }
+
+        .slider .post-wrapper .post .right {
+            width: 449px;
+            height: 400px;
+            margin-top: 3%;
+            margin-right: 3%;
+        }
+
+        .slider .post-wrapper .post .right .scroll {
+            width: 448px;
+        }
+
+        .slider .post-wrapper .post .left>p {
+            font-size: 1.1rem;
+            line-height: 1.8rem;
+        }
+
+        .slider .post-wrapper .post h2 {
+            margin-bottom: 31px;
+        }
+
+        .slider .post-wrapper .post1 .circle {
+            margin-top: 5%;
+        }
+
+        .slider .post-wrapper .post .circle {
+            margin: 5% 0;
+        }
+
+        .slider .post-wrapper {
+            margin-top: 3%;
+        }
+
+        .sec4 .slick-dots {
+            bottom: 19% !important;
+        }
+
+        /* -----------sec5---------------- */
+
+        .sec5>h2 {
+            font-size: 3rem;
+            top: 8%;
+        }
+
+        .sec5>span {
+            width: 200px;
+            top: 14%;
+        }
+
+        .sec5 h3 {
+            top: 15%;
+        }
+
+        .sec5 .box1 {
+            top: 68%;
+        }
+
+        .sec5 .box1 .work1 {
+            display: block;
+            width: 600px;
+        }
+
+        .sec5 .box1 .work1>img {
+            width: 100%;
+        }
+
+        .sec5 .box1 .work2,
+        .sec5 .box1 .work3,
+        .sec5 .box1 .work4,
+        .sec5 .box1 .work5 {
+            display: block;
+            width: 200px;
+        }
+
+        .sec5 .box1 .work2>img,
+        .sec5 .box1 .work3>img,
+        .sec5 .box1 .work4>img,
+        .sec5 .box1 .work5>img {
+            width: 100%;
+        }
+
+        .sec5 .box1 .work2 {
+            top: 25.5%;
+            left: 28%;
+        }
+
+        .sec5 .box1 .work3 {
+            top: 25.5%;
+            right: 28%;
+        }
+
+        .sec5 .box1 .work4 {
+            top: 52.5%;
+            left: 28%;
+        }
+
+        .sec5 .box1 .work5 {
+            top: 52.5%;
+            right: 28%;
+        }
+
+        .sec5 .slick-dots {
+            bottom: 25% !important;
+        }
+
+        .sec5 .box1 .line1,
+        .sec5 .box1 .line3 {
+            height: 400px;
+        }
+
+        .sec5 .box1 .line1>img,
+        .sec5 .box1 .line3>img {
+            height: 100%;
+        }
+
+        .sec5 .box1 .line2 {
+            width: 400px;
+        }
+
+        .sec5 .box1 .line2>img {
+            width: 100%;
+        }
+
+        .sec5 .box1 .line1 {
+            left: 36%;
+        }
+
+        .sec5 .box1 .line2 {
+            bottom: 32%;
+            left: 34%;
+        }
+
+        .sec5 .box1 .line3 {
+            right: 36%;
+        }
+
+        .slide1 a .mouse1 .bg {
+            width: 600px;
+            height: 97px;
+        }
+
+        .slide1 .mouse1 p {
+            top: 43px;
+            left: 273px;
+        }
+
+        .slide1 a .mouse2 .bg,
+        .slide1 a .mouse3 .bg,
+        .slide1 a .mouse4 .bg,
+        .slide1 a .mouse5 .bg {
+            width: 200px;
+            height: 137px;
+        }
+
+        .slide1 .mouse2 p,
+        .slide1 .mouse3 p,
+        .slide1 .mouse4 p,
+        .slide1 .mouse5 p {
+            top: 59px;
+            left: 72px;
+        }
+
+        .sec5 .box1 .work6,
+        .sec5 .box1 .work7,
+        .sec5 .box1 .work8,
+        .sec5 .box1 .work9 {
+            display: block;
+            width: 250px;
+        }
+
+        .sec5 .box1 .work6>img,
+        .sec5 .box1 .work7>img,
+        .sec5 .box1 .work8>img,
+        .sec5 .box1 .work9>img {
+            width: 100%;
+        }
+
+        .sec5 .box1 .work6 {
+            top: 8%;
+            left: 25%;
+        }
+
+        .sec5 .box1 .work7 {
+            top: 8%;
+            right: 25%;
+        }
+
+        .sec5 .box1 .work8 {
+            top: 45%;
+            left: 25%;
+        }
+
+        .sec5 .box1 .work9 {
+            top: 45%;
+            right: 25%;
+        }
+
+        .sec5 .box1 .line4,
+        .sec5 .box1 .line6 {
+            height: 300px;
+        }
+
+        .sec5 .box1 .line4 {
+            left: 34%;
+        }
+
+        .sec5 .box1 .line5 {
+            top: 17%;
+        }
+
+        .sec5 .box1 .line6 {
+            right: 34%;
+        }
+
+        .sec5 .box1 .line7 {
+            top: 57%;
+        }
+
+        .sec5 .box1 .line4>img,
+        .sec5 .box1 .line6>img {
+            height: 100%;
+        }
+
+        .slide2 a .mouse .bg {
+            width: 250px;
+            height: 171px;
+        }
+
+        .slide2 .mouse p {
+            width: 250px;
+            top: 82px;
+        }
+
+        /* ----popup----- */
+        .popup>div>p {
+            font-size: 2.5rem;
+        }
+
+        .popup .pop1 .main {
+            width: 900px;
+        }
+
+        .popup .pop1 .main>img {
+            width: 100%;
+        }
+
+        .popup .pop1 {
+            width: 950px;
+            height: 265px;
+        }
+
+        .popup .pop1>P {
+            top: 15%;
+        }
+
+        .pop1>span {
+            top: 27%;
+            width: 192px;
+        }
+
+        .popup .pop2 .main {
+            width: 400px;
+            bottom: 8%;
+        }
+
+        .popup .pop2 .main>img {
+            width: 100%;
+        }
+
+        .popup .pop2 {
+            width: 480px;
+            height: 443px;
+        }
+
+        .popup .pop2>P {
+            top: 9%;
+            width: 284px;
+        }
+
+        .pop2>span {
+            top: 16%;
+            width: 305px;
+        }
+
+        .popup .pop3 {
+            width: 800px;
+            height: 450px;
+        }
+
+        .popup .pop3>P {
+            top: 10%;
+        }
+
+        .pop3>span {
+            top: 17%;
+            width: 372px;
+        }
+
+        .popup .pop3 .main {
+            bottom: 8%;
+            width: 722px;
+            height: 303px;
+        }
+
+        .popup .pop3 .main img {
+            width: 100%;
+        }
+
+        .popup .pop4 {
+            width: 475px;
+            height: 403px;
+        }
+
+        .popup .pop4>P {
+            top: 10%;
+            width: 286px;
+        }
+
+        .pop4>span {
+            top: 18%;
+            width: 321px;
+        }
+
+        .popup .pop4 .main {
+            width: 400px;
+            bottom: 9%;
+        }
+
+        .popup .pop4 .main img {
+            width: 100%;
+        }
+
+
+        .popup .pop5 {
+            width: 480px;
+            height: 450px;
+        }
+
+        .popup .pop5>P {
+            top: 9%;
+            width: 325px;
+        }
+
+        .pop5>span {
+            top: 16%;
+            width: 350px;
+        }
+
+        .popup .pop5 .main {
+            width: 400px;
+            bottom: 9%;
+        }
+
+        .popup .pop5 .main img {
+            width: 100%;
+        }
+
+        .popup .pop6 {
+            width: 690px;
+            height: 480px;
+        }
+
+        .pop6>span {
+            width: 297px;
+        }
+
+        .popup .pop6 .main {
+            width: 600px;
+            bottom: 9%;
+        }
+
+        .popup .pop6 .main img {
+            width: 100%;
+        }
+
+        .popup .pop7 .main {
+            width: 617px;
+        }
+
+        .pop7>span {
+            top: 16%;
+            width: 335px;
+        }
+
+        .popup .pop8>P {
+            width: 391px;
+        }
+
+        .popup>.pop8>span {
+            top: 16%;
+            width: 430px;
+        }
+
+        .popup .pop8 .main {
+            width: 617px;
+        }
+
+        .pop9>span {
+            top: 16%;
+            width: 349px;
+        }
+
+        .popup .pop9 .main {
+            width: 617px;
+        }
+
+        /* ---sec6------- */
+        .sec6 .thank {
+            font-size: 3.5rem;
+            margin-left: 5%;
+        }
+
+        .sec6 .sendtext {
+            font-size: 1.5rem;
+            margin-right: 3%;
+        }
+    }
+
+    /* ---sec6------- */
+    .sec6 .thank {
+        font-size: 3.5rem;
+        margin-left: 5%;
+    }
+
+    .sec6 .sendtext {
+        font-size: 1.5rem;
+        margin-right: 3%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .menu {
+        display: none !important;
+    }
+
+    .sec1 {
+        font-size: 2.3rem;
+        height: 300px;
+        line-height: 4rem;
+    }
+
+    .sec1 .text {
+        display: none;
+    }
+
+    .sec1 .text_mb {
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 284px;
+    }
+
+    .sec1>.row1,
+    .sec1>.row2 {
+        bottom: 18%;
+    }
+
+    .sec1>.row1 span,
+    .sec1>.row2 span {
+        width: 35px;
+        height: 35px;
+    }
+
+    .sec2>h2 {
+        font-size: 1.9rem;
+        top: 8%;
+    }
+
+    .sec2>span {
+        top: 12%;
+        width: 185px;
+    }
+
+    .sec2 .sec2_box {
+        position: relative;
+        height: 100vh;
+    }
+
+    .sec2 .intro_left {
+        display: none;
+    }
+
+    .sec2 .me {
+        position: absolute;
+        top: 60%
+    }
+
+    .sec2 .line,
+    .sec2 .real {
+        width: 200px;
+    }
+
+    .sec2 .intro_right {
+        bottom: 10%;
+        text-align: center;
+        width: 80%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .sec2 .intro_right .text {
+        font-size: 0.8rem;
+        line-height: 1.5rem;
+        margin-left: 0;
+    }
+
+    .sec2 .intro_right h3 {
+        font-size: 1rem;
+        margin-bottom: 1px;
+    }
+
+    .sec2 .intro_right h4 {
+        font-size: 2rem;
+        margin-bottom: 0;
+        margin-right: 25%;
+    }
+
+    .sec2 .intro_right .birth {
+        text-align: left;
+        margin-left: 25%;
+        line-height: 1rem;
+    }
+
+    /* -----sec3------ */
+    .sec3>h2 {
+        font-size: 1.9rem;
+        top: 0%;
+    }
+
+    .sec3>span {
+        top: 4%;
+        width: 110px;
+    }
+
+    .sec3 .skill {
+        flex-direction: column;
+        top: 90%;
+        height: 600px;
+    }
+
+    .sec3 .skill>div>.circle {
+        width: 130px;
+        height: 130px;
+    }
+
+    .sec3 .skill1 .circle1 {
+        top: -120%;
+        left: 5%;
+    }
+
+    .sec3 .skill1 .circle2 {
+        top: -118%;
+        left: 7%;
+    }
+
+    .sec3 .skill1 .text {
+        top: -105%;
+        left: 50%;
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: left;
+    }
+
+    .sec3 .skill1 .circle1 p,
+    .sec3 .skill2 .circle1 p,
+    .sec3 .skill3 .circle1 p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .sec3 .graph {
+  
+   
+    }
+
+    .sec3 .progress {
+        margin: -17% 24%;
+    }
+
+    .sec3 .skill2 .circle1,
+    .sec3 .skill3 .circle1 {
+        top: -114%;
+        left: 5%;
+    }
+
+    .sec3 .skill2 .circle2 {
+        top: -118.5%;
+        left: 6.5%;
+    }
+
+    .sec3 .skill2 .text,
+    .sec3 .skill3 .text {
+        top: -89%;
+        left: 50%;
+        text-align: left;
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+
+    .sec3 .skill3 .circle2 {
+        top: -117%;
+        left: 5%;
+    }
+    .sec4>h2{
+        font-size: 1.9rem;
+        top:6%;
+    }
+    .sec4>span{
+        width: 129px;
+        top:10%;
+    }
+    .sec4 h3{
+        top:11%;
+        font-size: 1rem;
+    }
+
+}
